@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+Nav {
+  display:  flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: rgb(228, 98, 12);
+  color: white;
+}
+
+.navBar {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+
+.navLinks {
+  width: 1000%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.home {
+  line-height: 30mm;
+  align-items: center;
+  text-align: center;
+  background: rgb(54, 54, 161);
+}
+
+.home1{
+  text-align: center;
+}
